@@ -1,0 +1,27 @@
+# Command run in terminal
+curl https://api.github.com/repos/harshal-g25/simple-interest-calculator
+
+# Output from the command
+{
+  "id": 1181051715,
+  "node_id": "R_kgDORmVrQw",
+  "name": "simple-interest-calculator",
+  "full_name": "harshal-g25/simple-interest-calculator",
+  "private": false,
+  "owner": {
+    "login": "harshal-g25",
+    "id": 182497618,
+    "node_id": "U_kgDOCuCxUg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/182497618?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/harshal-g25",
+    "html_url": "https://github.com/harshal-g25",
+    "followers_url": "https://api.github.com/users/harshal-g25/followers",
+    "following_url": "https://api.github.com/users/harshal-g25/following{/other_user}",
+    ...
+  },
+  "html_url": "https://github.com/harshal-g25/simple-interest-calculator",
+  "fork": false,
+  ...
+  "default_branch": "main"
+}
